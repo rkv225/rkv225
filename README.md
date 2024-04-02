@@ -6,11 +6,12 @@ I'm **Rishabh** a self-taught passionate full-stack developer with a knack for D
 
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23-green.svg?style=flat-square&logo=csharp) ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-black.svg?style=flat-square&logo=typescript) ![.NET](https://img.shields.io/badge/.NET-purple.svg?style=flat-square&logo=dotnet) ![Angular](https://img.shields.io/badge/Angular-red.svg?style=flat-square&logo=angular) ![REST](https://img.shields.io/badge/REST-green.svg?style=flat-square) ![gRPC](https://img.shields.io/badge/gRPC-blue.svg?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-white.svg?style=flat-square&logo=rabbitmq) ![Kafka](https://img.shields.io/badge/Kafka-black.svg?style=flat-square&logo=apachekafka) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-blue.svg?style=flat-square&logo=opentelemetry) ![MySQL](https://img.shields.io/badge/MySQL-white.svg?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-green.svg?style=flat-square&logo=mongodb) ![HTML](https://img.shields.io/badge/HTML-black.svg?style=flat-square&logo=HTML5) ![Docker](https://img.shields.io/badge/Docker-white.svg?style=flat-square&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-black.svg?style=flat-square&logo=kubernetes)
 
-### Connect with me 📫
+### Connect/Follow 📫
 
+[![GitHub: rkv225](https://img.shields.io/github/followers/rkv225?label=follow&style=social)](https://github.com/rkv225)
+[![LeetCode: rkv225](https://img.shields.io/badge/Leetcode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/rkv225/)
 [![Linkedin: rkv225](https://img.shields.io/badge/-rkv225-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rkv225/)](https://www.linkedin.com/in/rkv225/)
-[![GitHub rkv225](https://img.shields.io/github/followers/rkv225?label=follow&style=social)](https://github.com/rkv225)
-[![GitHub rkv225](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:rkv225@gmail.com)
+[![Gmail: rkv225@gmail.com](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:rkv225@gmail.com)
 
 ### My Github ![Github](https://img.shields.io/badge/-black.svg?logo=github)
 
